@@ -1,5 +1,5 @@
 
-<img src="header.png"></img>
+<img src="banner.png"></img>
 
 <h2>👋Hey there! I'm Ahnaf</h2>
 
